@@ -63,3 +63,9 @@ Batch 400, lr 0.01, run 1
 Run 2
 - 65-93.5% accuracy
 - 18min wall
+
+### Different optimiser functions
+
+RMSprop
+- what a joke lmao
+
