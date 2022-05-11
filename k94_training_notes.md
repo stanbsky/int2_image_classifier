@@ -69,3 +69,13 @@ Run 2
 RMSprop
 - what a joke lmao
 
+Adadelta
+- actually really sane looking loss curve
+- doesn't quite hit the same accuracy - needs more lr maybe?
+
+
+Adadelta, lr03, 120e
+- 10.8GB
+
+Adadelta, lr06
+- CUDA OOM with 11GB memory max
